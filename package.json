@@ -3,7 +3,7 @@
   "version": "0.12.0-alpha.1",
   "type": "module",
   "description": "Experimental e-commerce platform built with Next.js 16, Convex, Better Auth, and Polar. Features custom cart bundling, seamless guest-to-auth migration, and automated product seeding.",
-  "author": "Ray <hello@ramonclaudio.com> (https://github.com/Ramon Claudio)",
+  "author": "Ray <hello@ramonclaudio.com> (https://github.com/ramonclaudio)",
   "license": "MIT",
   "private": false,
   "repository": {

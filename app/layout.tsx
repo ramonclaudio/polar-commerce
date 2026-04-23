@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     'subscription-payments',
     'nextjs16',
   ],
-  authors: [{ name: 'Ray', url: 'https://github.com/Ramon Claudio' }],
+  authors: [{ name: 'Ray', url: 'https://github.com/ramonclaudio' }],
   creator: 'Ray',
   publisher: 'Ray',
   generator: 'Next.js',
