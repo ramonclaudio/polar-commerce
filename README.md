@@ -28,7 +28,7 @@ Polar handles payments beautifully but has zero cart system - no multi-item chec
 
 #### Install and Configure
 ```bash
-git clone https://github.com/RMNCLDYO/polar-commerce.git
+git clone https://github.com/ramonclaudio/polar-commerce.git
 cd polar-commerce
 npm install
 cp .env.example .env.local

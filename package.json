@@ -3,17 +3,17 @@
   "version": "0.12.0-alpha.1",
   "type": "module",
   "description": "Experimental e-commerce platform built with Next.js 16, Convex, Better Auth, and Polar. Features custom cart bundling, seamless guest-to-auth migration, and automated product seeding.",
-  "author": "Ray <hi@rmncldyo.com> (https://github.com/RMNCLDYO)",
+  "author": "Ray <hello@ramonclaudio.com> (https://github.com/Ramon Claudio)",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/RMNCLDYO/polar-commerce"
+    "url": "https://github.com/ramonclaudio/polar-commerce"
   },
   "bugs": {
-    "url": "https://github.com/RMNCLDYO/polar-commerce/issues"
+    "url": "https://github.com/ramonclaudio/polar-commerce/issues"
   },
-  "homepage": "https://github.com/RMNCLDYO/polar-commerce#readme",
+  "homepage": "https://github.com/ramonclaudio/polar-commerce#readme",
   "keywords": [
     "ecommerce",
     "real-time",

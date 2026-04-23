@@ -3652,4 +3652,4 @@ export default async function CategoryPage({ params, searchParams }: PageProps) 
 
 ## Previous Development
 
-See [git commit history](https://github.com/RMNCLDYO/aisdk-storefront/commits/main) for detailed commit-by-commit changes.
+See [git commit history](https://github.com/ramonclaudio/aisdk-storefront/commits/main) for detailed commit-by-commit changes.
